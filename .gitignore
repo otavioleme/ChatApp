@@ -399,3 +399,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Frontend
+chatapp-web/.next/
+chatapp-web/node_modules/
+
+# Backend secrets
+ChatApp.API/appsettings.json
+
+# Uploads
+ChatApp.API/wwwroot/uploads/
