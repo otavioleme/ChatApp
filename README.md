@@ -4,11 +4,11 @@ A full-stack real-time chat application built with modern technologies, featurin
 
 ## 📸 Screenshots
 
-![Login](Screenshots/Login.png)
-![Register](Screenshots/Register.png)
-![Rooms](Screenshots/Rooms.png)
-![Direct Message](Screenshots/DM.png)
-![Profile](Screenshots/Profile.png)
+![Login](screenshots/Login.png)
+![Register](screenshots/Register.png)
+![Rooms](screenshots/Rooms.png)
+![Direct Message](screenshots/DM.png)
+![Profile](screenshots/Profile.png)
 
 ## 🛠️ Tech Stack
 
